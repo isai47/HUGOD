@@ -1,0 +1,19 @@
+{
+  "name": "hugod",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isai47/HUGOD.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isai47/HUGOD/issues"
+  },
+  "homepage": "https://github.com/isai47/HUGOD#readme"
+}
